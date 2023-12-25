@@ -1142,7 +1142,7 @@ main {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 15px;
-  background-color: #eaebe6;
+  background-color: #e6eaeb;
   position: relative;
   z-index: 0;
 }
@@ -1507,9 +1507,9 @@ Stylesheet: 1280px以上のモニタで適用
 Stylesheet: Retinaディスプレイで適用
 
 ******************************************************************/
-  /* 
+  /*
 
-EXAMPLE 
+EXAMPLE
 .icon {
 	background: url(images/test@2x.png) no-repeat;
 	background-size: 24px 24px;
