@@ -114,6 +114,7 @@ main {
 
   & .logo {
     font-size: 38px;
+    color: $cBlack;
     justify-content: center;
   }
 
@@ -154,7 +155,7 @@ main {
       transform-origin: right;
     }
 
-    
+
   }
 
   &__sub {
@@ -266,7 +267,7 @@ main {
   }
 
   &__ul {
-    display: list-item; 
+    display: list-item;
     list-style-type: none;
     text-align: left;
     padding: 0;
